@@ -4,9 +4,14 @@
 
 @plugin "daisyui";
 
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600&family=Clash+Display:wght@300;400;600&display=swap');
+
+
+
+
 body{
     background-color: white;
-    font-family: 'Space Grotesk';
+    font-family: 'Space Grotesk', 'sans-serif';
     color: black;
 }
 

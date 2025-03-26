@@ -1,7 +1,7 @@
 const Hero = () =>{
     return(
         <>
-        <div className="hero blur-corners bg-cover bg-center h-100 w-full p-3">
+        <div className="hero blur-corners bg-full bg-center h-80 w-full p-3">
             <img src='hero_icon.png' className='h-48 w-48' alt='hero_icon'/>
         </div>
         <div className="grid place-items-center text-center p-3 w-[320px] md:w-[730px] mx-auto">
